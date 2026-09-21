@@ -65,6 +65,7 @@ usb_logs.csv #Live USB Events logs
 2. Click **Train/Refresh model** to fit IsolationForest.
 3. View **Risk Overview**, **Alerts**, and **User Drilldowns**.
 4. Tweak **contamination** to adjust sensitivity.
+5. Add your own data for the testing 
 
 ## 🧪 Bring Your Own Data (optional) / It's also detects realtime logs
 
